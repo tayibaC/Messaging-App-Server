@@ -38,7 +38,7 @@ public class GuiClient extends Application{
 
 		@Override
 		public void start(Stage primaryStage) {
-			primaryStage.setTitle("Chat App - Server");
+			primaryStage.setTitle("Messaging App - Server");
 			this.serverChoice = new Button("Server");
 			this.serverChoice.setStyle("-fx-font-family: Arial; -fx-pref-width: 300px; -fx-pref-height: 300px");
 
@@ -55,22 +55,22 @@ public class GuiClient extends Application{
 			});
 
 
-			this.clientChoice = new Button("Client");
-			this.clientChoice.setStyle("-fx-font-family: Arial; -fx-pref-width: 300px; -fx-pref-height: 300px");
+//			this.clientChoice = new Button("Client");
+//			this.clientChoice.setStyle("-fx-font-family: Arial; -fx-pref-width: 300px; -fx-pref-height: 300px");
+//
+//
+//			this.clientChoice.setOnAction(e-> {primaryStage.setScene(sceneMap.get("client"));
+//				primaryStage.setTitle("Messaging App");
+//				s1.getStylesheets().add("/styles/style1.css");
+//				clientConnection = new Client(data->{
+//					Platform.runLater(()->{listItems2.getItems().add(data.toString());
+//					});
+//				});
+//
+//				clientConnection.start();
+//			});
 
-
-			this.clientChoice.setOnAction(e-> {primaryStage.setScene(sceneMap.get("client"));
-				primaryStage.setTitle("Messaging App");
-				s1.getStylesheets().add("/styles/style1.css");
-				clientConnection = new Client(data->{
-					Platform.runLater(()->{listItems2.getItems().add(data.toString());
-					});
-				});
-
-				clientConnection.start();
-			});
-
-			this.buttonBox = new HBox(400, serverChoice, clientChoice);
+			this.buttonBox = new HBox(400, serverChoice);
 			startPane = new BorderPane();
 			startPane.setPadding(new Insets(70));
 			startPane.setCenter(buttonBox);

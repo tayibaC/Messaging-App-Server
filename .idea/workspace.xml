@@ -4,39 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf81c066-ed5c-4e7c-a914-df073f05345c" name="Changes" comment="updating the server for messaging">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Messaging-App.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MessagingServer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ClientJoinEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GuiClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FXML/Clientfxml.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FXML/oldClientFxml.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/styles/styles1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ClientController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ClientJoinEvent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/FXML/Clientfxml.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/FXML/oldClientFxml.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GuiClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MyController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/styles/styles1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/MyTest.class" afterDir="false" />
+    <list default="true" id="bf81c066-ed5c-4e7c-a914-df073f05345c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Messaging-App.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Messaging-App-Server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GuiClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GuiClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GuiClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GuiClient.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,24 +26,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/tayibachowdhury/Documents/2021-Present UIC BS in CS/CS 342/Messaging-App",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tayibachowdhury/Documents/2021-Present UIC BS in CS/CS 342/Messaging-App&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -88,8 +60,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691599418199</updated>
-      <workItem from="1691599422669" duration="695000" />
+      <workItem from="1691599422669" duration="1830000" />
     </task>
+    <task id="LOCAL-00001" summary="updating the server for messaging">
+      <created>1691600297854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691600297854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
