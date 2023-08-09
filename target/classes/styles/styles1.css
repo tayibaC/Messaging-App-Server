@@ -1,0 +1,28 @@
+.button{
+	-fx-font-size: 14px;
+	-fx-font-weight: bold;
+	-fx-background-color: #a8a8f3;
+	-fx-font-family: Arial
+}
+.text-field{
+	-fx-font-family: Arial
+
+}
+.label{
+	-fx-font-family: Arial;
+}
+.vbox{
+	-fx-background-color: #a7ceb0;
+	-fx-font-family: Arial;
+}
+.check-box{
+	-fx-font-family: Arial;
+}
+.label{
+	-fx-font-family: Arial;
+}
+
+
+
+
+
